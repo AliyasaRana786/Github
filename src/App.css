@@ -1,0 +1,42 @@
+
+.githubApi{
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+
+.count{
+  border-radius: 10px;
+  background-color: rgb(229, 238, 238);
+  box-shadow: 5px 1px 1px 1px rgb(254, 253, 253);
+  width: 300px;
+  height: 300px;
+}
+
+
+form input{
+  width: 240px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.githubdetails{
+  margin-left:70px;
+}
+
+.image img{
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
